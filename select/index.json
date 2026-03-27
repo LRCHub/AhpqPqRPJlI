@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スポーツマン",
+  "base_artist": "Haruomi Hosono",
+  "createdAt": "2026-03-27T02:22:22.340562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スポーツマン (2019 Remastering)",
+      "artist": "Haruomi Hosono",
+      "has_synced": true,
+      "path": "select/01_スポーツマン_(2019_Remastering)_Haruomi_Hosono.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スポーツマン",
+      "artist": "細野晴臣",
+      "has_synced": false,
+      "path": "select/pl_01_スポーツマン_細野晴臣.txt"
+    }
+  ]
+}
